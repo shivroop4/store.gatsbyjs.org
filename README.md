@@ -100,5 +100,5 @@ On some international orders, customs will add additional taxes, duties, and oth
 &nbsp; <!-- leave this here to avoid smashing the text against the summary -->
 
 If you ended up with the wrong t-shirt or other clothing size by mistake, contact us via email with your order number at <a href="mailto:team@gatsbyjs.com">team@gatsbyjs.com</a> and we'll work with you to fix it. You don't have to submit another PR to get the correct size!
-
+<b>💜 Thanks</b>
 </details>
